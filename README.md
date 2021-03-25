@@ -12,7 +12,7 @@
 
 #
 ### Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ROMI-AFRZL&show_icons=true&theme=radical)<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mark-Zuck&show_icons=true&theme=radical)<br>
 #
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
