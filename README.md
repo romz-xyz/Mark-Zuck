@@ -7,7 +7,7 @@
 <img src="https://giffiles.alphacoders.com/120/120248.gif">
 </p>
 <p align="center">
-<i> <b> LOL ! </b> </i>
+<i> <b> FUCK 🖕 LOL ! </b> </i>
 </p
 
 #
