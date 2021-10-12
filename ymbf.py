@@ -833,5 +833,4 @@ class __crack__:
             print '\n %s[%s×%s] input yang bener'%(N,M,N);self.__pler__()
 
 if __name__ == '__main__':
-    os.system('git pull')
     moch_yayan()
